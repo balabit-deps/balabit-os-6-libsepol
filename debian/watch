@@ -1,0 +1,3 @@
+version=3
+
+https://github.com/SELinuxProject/selinux/wiki/Releases (?:.*)/releases/(?:\d*)/libsepol-([\d\.]*)\.tar\.gz
